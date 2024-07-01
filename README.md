@@ -21,11 +21,11 @@
 </p>
 
 
-## warning ⚠
+## Warning ⚠
 This code is completely free. It is strictly prohibited to sell this code by making small modifications. That is why please do not try to sell the code, legal action will be taken if caught.
 
 
-## this free project contains
+## This free project contains
 
 - Beautiful reponsive Homepage designed with tailwind css
 - An AdminLTE dashboad for managing post - protected with middlewaare .
@@ -59,7 +59,7 @@ We have just mentioned a little bit of features above, there are many more premi
 
 ### OWNER
 
-- **[LazyDeveloperr](https://github.com/lazydeveloperr)**
+- **[LazyDeveloperr](https://github.com/lazydeveloperr)** : The one & Only 💘
 
 
 ## Contributing
@@ -78,3 +78,8 @@ If you discover a security vulnerability within this first free ``Movie Blog`` p
 ## License
 
 This, the first free ``Movie Blog`` project is open-sourced software made with love by [LazyDeveloperr](https://telegram.me/LazyDeveloperr). 
+
+## Disclaimer
+[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL 2.0.](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
