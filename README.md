@@ -13,7 +13,7 @@
  Trust me! I'm not Lazy 😒
 </p>
 
-# Community ❤️
+# <p align="center">❤️ Community ❤️</p>
 </p>
 <p align="center">
 <a href="https://instagram.com/LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LazyDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
