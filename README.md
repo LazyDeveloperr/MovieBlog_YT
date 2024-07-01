@@ -80,6 +80,7 @@ If you discover a security vulnerability within this first free ``Movie Blog`` p
 This, the first free ``Movie Blog`` project is open-sourced software made with love by [LazyDeveloperr](https://telegram.me/LazyDeveloperr). 
 
 ## Disclaimer
+
 [![GNU Affero General Public License 3.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
 Licensed under [GNU AGPL 3.0.](https://github.com/LazyDeveloperr/MovieBlog_YT/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
