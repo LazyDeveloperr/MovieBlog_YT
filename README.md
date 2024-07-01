@@ -33,7 +33,8 @@ This code is completely free. It is strictly prohibited to sell this code by mak
 - Single login panel - for admin only.
 - Seperate section for managing posts and category
 
-- [Y] **`Laravel 10.`** 
+- [x] **Frameork** : **`Laravel 10.`** 
+
 
 ## Our Premium project contains 
 - Beside this free project we also have premium source code. 
@@ -57,6 +58,8 @@ This code is completely free. It is strictly prohibited to sell this code by mak
 - ``👑You can manage all admins and managers .``
 - ``🔥Every managers and admins has Account details section.`` - ETC...
 We have just mentioned a little bit of features above, there are many more premium features...
+
+- [x] **Frameork** : **`Laravel 10.`** 
 
 ### OWNER
 
