@@ -19,7 +19,7 @@
                 <div class="group card-body h-[250px] relative overflow-hidden">
                     <img class="h-full w-full group-hover:scale-125 transition ease-and-out duration-300" src="{{url('/thumbnails'.'/'. $post->thumbnail)}}" alt="card imges">
                     <div class="absolute right-0 top-12 px-2 text-[20px] rounded-tl-3xl rounded-bl-3xl font-semibold bg-gradient-to-r from-teal-600 to-gray-900 text-slate-50 ">
-                        HDR + 
+                        {{$post->video_type}}
                     </div>
                     <div class="absolute top-0 bottom-0 left-0 right-0 justify-center items-center hidden group-hover:flex">
                         <div class="w-[40%] h-[40%] flex">
