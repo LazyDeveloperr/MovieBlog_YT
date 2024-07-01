@@ -33,6 +33,7 @@ This code is completely free. It is strictly prohibited to sell this code by mak
 - Single login panel - for admin only.
 - Seperate section for managing posts and category
 
+- [Y] **`Laravel 10.`** 
 
 ## Our Premium project contains 
 - Beside this free project we also have premium source code. 
