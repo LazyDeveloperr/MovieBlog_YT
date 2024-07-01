@@ -21,3 +21,4 @@ class AdminSeeder extends Seeder
         Admin::Create($data);
     }
 }
+

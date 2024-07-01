@@ -1,5 +1,7 @@
 @extends('admin.layout.base')
-
+@section('title')
+    Drafts
+@endsection
 @section('contents')
     
   <div class="content-wrapper">

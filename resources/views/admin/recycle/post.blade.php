@@ -1,5 +1,7 @@
 @extends('admin.layout.base')
-
+@section('title')
+    Recycle Bin
+@endsection
 @section('contents')
     
   <div class="content-wrapper">

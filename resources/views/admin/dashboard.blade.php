@@ -1,5 +1,7 @@
 @extends('admin.layout.base')
-
+@section('title')
+    Dashboard
+@endsection
 @section('contents')
     
   <div class="content-wrapper">

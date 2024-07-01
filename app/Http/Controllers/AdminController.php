@@ -9,8 +9,10 @@ use Illuminate\Support\Facades\Auth;
 class AdminController extends Controller
 {
 
+    // {{-- first free Movie Blog Project - Credit @LazyDeveloeprr --}}
 
-    // login 
+    // {{-- This code is completely free and belongs to **[LazyDeveloper's fans]** property. It is strictly prohibited to sell this code by making small modifications. That is why please do not try to sell the code, legal action will be taken if caught. --}}
+
     public function login(Request $request)
     {
         if($request->method() == "POST"){
@@ -83,6 +85,8 @@ class AdminController extends Controller
      */
     public function destroy(Admin $admin)
     {
-        //
+//{{-- first free Movie Blog Project - Credit @LazyDeveloeprr --}}
+
+// {{-- This code is completely free and belongs to **[LazyDeveloper's fans]** property. It is strictly prohibited to sell this code by making small modifications. That is why please do not try to sell the code, legal action will be taken if caught. --}}
     }
 }

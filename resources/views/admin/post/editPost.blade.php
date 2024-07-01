@@ -1,5 +1,7 @@
 @extends('admin.layout.base')
-
+@section('title')
+    Edit - {{$data->title}}
+@endsection
 @section('contents')
     
   <div class="content-wrapper">

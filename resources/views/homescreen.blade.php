@@ -1,5 +1,7 @@
 @extends('layout.base')
-
+@section('title')
+    Homepage
+@endsection
 @section('contents')
     
     {{-- Cards --}}

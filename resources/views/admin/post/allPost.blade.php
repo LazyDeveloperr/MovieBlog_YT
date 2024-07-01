@@ -1,5 +1,9 @@
 @extends('admin.layout.base')
 
+@section('title')
+    Posts
+@endsection
+
 @section('contents')
     
   <div class="content-wrapper">

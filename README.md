@@ -1,5 +1,24 @@
-<p align="center"><a href="https://youtube.com/@lazydeveloperr" target="_blank">LazyDeveloperr</a></p>
 
+<p align="center">
+  <a href="https://github.com/LazyDeveloperr/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=LazyDeveloper&font=Fira%20SemiBold&center=true&width=480&height=45&color=fff68f&vCenter=true&pause=1000&size=40" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LazyDeveloperr/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20app%20and%20BOT%20developer;Experienced%20UI%2FUX%20Designer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things;A.I%20DEVELOPER%20&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+<p align="center">
+ Trust me! I'm not Lazy 😒
+</p>
+
+# Community ❤️
+</p>
+<p align="center">
+<a href="https://instagram.com/LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/LazyDeveloper"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://youtube.com/@LazyDeveloperr?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 
 ## warning ⚠
@@ -17,21 +36,22 @@ This code is completely free. It is strictly prohibited to sell this code by mak
 
 ## Our Premium project contains 
 - Beside this free project we also have premium source code. 
-- **[Check Demo](https://moviesadda.shop/)**
+- ♥ **[Check Demo](https://moviesadda.shop/)** 🎉
 
+🎊 Premium Features 👇
 - ``🆒 Cool Animations 😎.``
 - ``⚡️Classic Backend designed with tailwind css``
 - ``👮‍♂️Can make many Admins , Managers, and one SuperAdmin[BOSS]``
 - ``🤐Advance login system for Admins and managers.``
 - ``👌Easy to upload posts & pages.``
 - ``💫Seperate comments system for each posts.``
-- ``💫Seperate replies for each comment.``
+- ``🔊Seperate replies for each comment.``
 - ``🔥Every post belongs to many to many relationship tables(advance)[category, language, genres, types, ].``
 - ``♻️ Recycle bin feature ♻️``
 - ``🍿Movie Requests feature``
 - ``☢ RCD management system``
-- ``☢ Seperate page for download buttons``
-- ``☢ url shortner support - with on/of``
+- ``📃 Seperate page for download buttons``
+- ``🌐 url shortner support - with on/of``
 - ``🏪You can make managers to manage website.``
 - ``👑You can manage all admins and managers .``
 - ``🔥Every managers and admins has Account details section.`` - ETC...

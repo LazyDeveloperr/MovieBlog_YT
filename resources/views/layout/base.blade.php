@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Homepage</title>
-    
+    <title> @section('title')@show | @env('APP_NAME')
+    @endenv </title>
+{{-- first free Movie Blog Project - Credit @LazyDeveloeprr --}}
+{{-- This code is completely free and belongs to **[LazyDeveloper's fans]** property. It is strictly prohibited to sell this code by making small modifications. That is why please do not try to sell the code, legal action will be taken if caught. --}}
 </head>
 <body>
    <div class="">

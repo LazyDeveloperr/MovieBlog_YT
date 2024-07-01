@@ -1,5 +1,7 @@
 @extends('layout.base')
-
+@section('title')
+    {{$data->title}}
+@endsection
 @section('contents')
     <div class="sm:flex !w-full justify-center sm:px-[10%] lg:px-[12%] px-[5%]">
       <div class="sm:text-[30px] sm:w-9/12 lg:text-[30px] p-3 text-lg  font-bold ">
