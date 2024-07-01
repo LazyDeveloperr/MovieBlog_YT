@@ -61,6 +61,13 @@ We have just mentioned a little bit of features above, there are many more premi
 
 - [x] **Frameork** : **`Laravel 10.`** 
 
+- [x] **🎊NOTE** : **we have uploaded SQL file of this project. Please update your project with our SQL file. Search `movie_blog.sql` in this repository** 
+
+- [x] **ADMIN LOGIN DETAILS** 👇
+- `EMAIL` -> `lazydeveloper.us@gmail.com`
+- `PASSWORD` -> `123456789`
+
+
 ### OWNER
 
 - **[LazyDeveloperr](https://github.com/lazydeveloperr)** : The one & Only 💘
