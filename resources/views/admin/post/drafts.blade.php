@@ -70,7 +70,9 @@
                         @endforeach
                     </tbody>
                 </table>
+                {{ $allDrafts->links() }}
               </div>
+
             </div>
           </div>
           <!-- ./col -->

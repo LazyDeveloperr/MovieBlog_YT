@@ -18,12 +18,12 @@ class PostController extends Controller
 
     public function allDrafts()
     {
-        $allDrafts = Post::where('status' , 0)->paginate(20);
+        $allDrafts = Post::where('status' , 0)->paginate(50);
         return view('admin.post.drafts', compact('allDrafts'));
     }
     public function allPosts()
     {
-        $allposts = Post::where('status', 1)->get();
+        $allposts = Post::where('status', 1)->paginate(100);
         return view('admin.post.allPost', compact('allposts'));
     }
     public function makePublic($postId)

@@ -68,8 +68,10 @@
                     </tbody>
                 </table>
               </div>
+             
             </div>
           </div>
+
           <!-- ./col -->
         </div>
         <!-- /.row -->
